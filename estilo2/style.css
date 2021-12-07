@@ -56,11 +56,14 @@ section{
 section.normal{
     background-color: white;
     color:black;
+    
 }
 
 section.imagem{
     background-color: rgb(51, 51, 51);
     color: white;
+    background-image: url(background001.jpg);
+
 }
 section.imagem > p {
     display: inline-block;
@@ -73,3 +76,4 @@ footer {
     text-align: center;
     padding: 10px
 }
+
